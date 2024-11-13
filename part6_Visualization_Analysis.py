@@ -79,3 +79,4 @@ if __name__ == '__main__':
     simulate_market_scenarios(data, 'GOOGL', 'GOOGL_Close')
     simulate_market_scenarios(data, 'MSFT', 'MSFT_Close')
     simulate_market_scenarios(data, 'TSLA', 'TSLA_Close')
+#完成
